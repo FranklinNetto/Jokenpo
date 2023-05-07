@@ -23,7 +23,7 @@ def jogar(opcao):
         resultado = mensagens.mensagem_jogo(3, jogador_opcao, computador_opcao)
 
     print(resultado)
-    time.sleep(3)
+    time.sleep(1)
     limpar_tela()
     iniciar_jogo()
 
@@ -44,6 +44,7 @@ def iniciar_jogo():
     validacao_jogo(escolha)
 
 def validacao_jogo(opcao):
+
     try:
         opcao = int(opcao)
     except ValueError:
