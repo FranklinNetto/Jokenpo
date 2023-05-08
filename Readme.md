@@ -6,7 +6,7 @@ O projeto do jogo Jokenpo, conhecido também como "Pedra, Papel ou Tesoura", mos
 
 O objetivo principal deste projeto é praticar a sintaxe e lógica associada ao desenvolvimento. 
 
-![Funcionamento do jogo](assets/to_readme/jokenpo_scr_capture1.webm) 
+![]( https://github.com/FranklinNetto/Jokenpo/blob/main/assets/to_readme/jokenpo_scr_capture1.webm)
 
 ![Tratamento de erros](assets/to_readme/jokenpo_scr_capture2.webm)
 
